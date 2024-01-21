@@ -1,0 +1,21 @@
+{
+    "foods": [
+        {"name": "Food", "tag": "[Food]"},
+        {"name": "RadFood", "tag": "[RadFood]"},
+        {"name": "Soup", "tag": "[Soup]"},
+        {"name": "Stew", "tag": "[Stew]"},
+        {"name": "Steak", "tag": "[Steak]"},
+        {"name": "FoodStick", "tag": "[FoodStick]"},
+        {"name": "Meat", "tag": "[Meat]"},
+        {"name": "Vegetables", "tag": "[Vegetables]"},
+        {"name": "Leaf", "tag": "[Leaf]"},
+        {"name": "Shroom", "tag": "[Shroom]"},
+        {"name": "Cake", "tag": "[Cake]"},
+        {"name": "Boxed", "tag": "[Boxed]"},
+        {"name": "Canned", "tag": "[Canned]"},
+        {"name": "Drink", "tag": "[Drink]"},
+        {"name": "Nuka", "tag": "[Nuka]"},
+        {"name": "Liquor", "tag": "[Liquor]"},
+        {"name": "Beer", "tag": "[Beer]"}
+    ]
+}
